@@ -23,3 +23,10 @@ __This will also be bold__
 3. Item 3
    * Item 3a
    * Item 3b
+
+
+```javascript
+function test() { 
+ console.log("look ma’, no spaces");
+ }
+```
