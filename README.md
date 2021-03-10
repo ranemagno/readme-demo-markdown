@@ -30,7 +30,7 @@ function test() {
  console.log("look ma’, no spaces");
  }
 ```
-'''css
+```css
 header {
 background-color: white;
-'''
+```
